@@ -11,7 +11,7 @@
 - Space complexity: O(1) because The Sudoku board has a fixed size of 9x9. The three arrays always use a constant amount of memory
   (exactly 243 booleans), independent of the input.
 
-  ![Image boxes](docs/images/docs/images/Screenshot%202026-08-29%20230141.png)
+  ![Image boxes](../docs/images/valid_sudoku.drawio.png)
 ```cpp
 class Solution {
 public:
